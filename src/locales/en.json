@@ -1,0 +1,39 @@
+{
+    "languages": {
+        "en": "English",
+        "es": "Spanish"
+    },
+    "actions": {
+        "new": "Crear",
+        "edit": "Editar",
+        "delete": "Borrar",
+        "copy": "Duplicar",
+        "import": "Importar",
+        "export": "Exportar",
+        "cancel": "Cancel",
+        "save": "Save",
+        "confirm": "Confirm"
+    },
+    "login": {
+        "user": "User",
+        "password": "Password",
+        "button": "Login",
+        "reset": "Forgot your password?"
+    },
+    "reset": {
+        "email": "Enter your email",
+        "button": "Recover password",
+        "back": "Back"
+    },
+    "general": {
+        "users": "Users",
+        "name": "Name",
+        "last_name": "Last Name",
+        "phone": "Phone",
+        "home": "Home"
+    },
+    "table": {
+        "nodata": "No hay datos para mostrar.",
+        "nosearch": "No hay resultados que coincidan con la búsqueda"
+    }
+}
